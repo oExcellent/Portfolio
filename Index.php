@@ -24,7 +24,7 @@ include('Structure/Header.php');
         <div class="w3-display-container">
           <img src="../Assets/Max.png" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
-            <h2>Max Walters</h2>
+            <h2 style="color:white" >Max Walters</h2>
           </div>
         </div>
         <div class="w3-container">
