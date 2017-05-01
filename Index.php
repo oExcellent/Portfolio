@@ -102,6 +102,17 @@ include('Structure/Header.php');
         </div>
       </div>
 
+      <div class="w3-container w3-card-2 w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>BROWARD COLLEGE • COMPUTER PROGRAMMING and ANALYSIS.</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>JAN 2016 - MAY 2017</h6>
+          <p>• A.S. <br>
+          	 • Honor Roll.</p>
+          <hr>
+        </div>
+        
+      </div>
 
     <!-- End Right Column -->
     </div>
