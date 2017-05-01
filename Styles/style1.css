@@ -1,0 +1,8 @@
+body{
+	font-family: "Impact", Charcoal, sans-serif ; /*change font, set backups with commas*/
+    font-size: 20px;
+}
+
+.warning{
+color:red;
+}
